@@ -1,2 +1,2 @@
 # cropper
-fast GUI for cropping images 
+simple GUI for cropping images 
